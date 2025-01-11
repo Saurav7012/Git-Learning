@@ -4,3 +4,6 @@ console.log("third commit");
 console.log("fourth commit");
 
 console.log("sixth commit");
+
+//fixed a new bug
+console.log("fixed a new bug");
