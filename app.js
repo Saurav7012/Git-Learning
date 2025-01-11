@@ -7,3 +7,4 @@ console.log("sixth commit");
 
 //fixed a new bug
 console.log("fixed a new bug");
+
